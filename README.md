@@ -1,4 +1,2 @@
-# RPM-Smart-NPC
-This project aims to help you learn how to use **Ready Player Me** avatars, **Unity Starter Assets** and **OpenAI API** to make smart NPC characters in a Unity project.
-
-You can watch the video on the creation of this project here: https://youtu.be/Cg4k-XPBC2Q
+# OpenAI powered NPC
+Experience the future of virtual interaction with our NPC powered by OpenAI. Immerse yourself in a virtual reality environment and converse with our NPC in real-time. Our project is built using the Unity engine and is accessible on both desktop and mobile browsers, as well as in AR.
